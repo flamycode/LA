@@ -1,0 +1,782 @@
+[
+  {
+    "name": "FreakyPunk #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "66aa6dc9b669ffa31d116525e619bcc0929a5287",
+    "edition": 1,
+    "date": 1639314592984,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Premium Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "e3cfa7f60b716ee2762fa911dc96b5a0ac5ea459",
+    "edition": 2,
+    "date": 1639314593051,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bandana"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "09d87e4460fb1beacc8071fa20a8027c2613dce5",
+    "edition": 3,
+    "date": 1639314593088,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Propeller Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Premium Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "be7907e5fbdd4f8510877a6dadbd487c7d6cd1e4",
+    "edition": 4,
+    "date": 1639314593125,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange Banana"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "35feda1a97021a0d9c25bd753818d2dcc861fe5a",
+    "edition": 5,
+    "date": 1639314593162,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Gold Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "97903e5f8cfd44136be8c8f656a0a845f7c4c8f6",
+    "edition": 6,
+    "date": 1639314593199,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue Banana"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bandana"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Premium Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "feaa3d10380e79cdcb8b33f18b1b8cb5a2397139",
+    "edition": 7,
+    "date": 1639314593237,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bandana"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bananas"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "86602555cb87fd397564012bf9eb5472ccf123a7",
+    "edition": 8,
+    "date": 1639314593275,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Banana"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bandana"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Premium Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "FK Corona"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "0a0cfdaf429460ded12053a07ac84bec6631f900",
+    "edition": 9,
+    "date": 1639314593314,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Banana"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Premium Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "FK Corona"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "a891b451e628d2ef0630a12be11bd049cb994b9f",
+    "edition": 10,
+    "date": 1639314593354,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Gold Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "8a3ae4d1aba30b2a5aada941170aee172c089a09",
+    "edition": 11,
+    "date": 1639314593392,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Propeller Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Premium Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "f8da0b14de4ed8b3ad145d967c82f996f1151f69",
+    "edition": 12,
+    "date": 1639314593430,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Banana"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "FK Corona"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "8fc2b9f868d879dc468d96651eb3b371ccf237a9",
+    "edition": 13,
+    "date": 1639314593471,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bandana"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bananas"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "a9acfa7a197be2cdb57bd951bf18c5b6af79f7ea",
+    "edition": 14,
+    "date": 1639314593509,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Propeller Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bananas"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "ebe8f8c81c1d5832416ac173b91ae3fef1ca1313",
+    "edition": 15,
+    "date": 1639314593546,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Gold Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "016e8c83b8f8e5144c38dedb66ddcc7e67917e21",
+    "edition": 16,
+    "date": 1639314593584,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "5c3a60ee6238b865cc189cd43b0b9a23a8c1c736",
+    "edition": 17,
+    "date": 1639314593624,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Premium Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "fbf3ef228444a40232764b1826a7d50527ce572f",
+    "edition": 18,
+    "date": 1639314593662,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Propeller Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bananas"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "a645263c0ca12eef7d313c1b3585d180e18cf4d2",
+    "edition": 19,
+    "date": 1639314593699,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bandana"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Gold Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "FK Corona"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "d91843aef3e2394cc5913f09524630cc620004ae",
+    "edition": 20,
+    "date": 1639314593737,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lucky Ape"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Premium Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "FK Corona"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
